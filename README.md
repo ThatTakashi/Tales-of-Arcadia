@@ -18,4 +18,8 @@
   <p align="center">1. RPGMaker MV (on steam or standalone)</p>
   <p align="center">2. A PC to run RPGMaker on</p>
   <p align="center">3. A copy of the files in this repo (instructions to clone can be found below)</p>
+  <h2 align="center">About the game:</h2>
+  <h3 align="center">Plot:</h3>
+  <h3 align="center">Gameplay:</h3>
+  <h3 align="center">Characters:</h3>
 </p>
