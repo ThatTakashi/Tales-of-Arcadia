@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white"/>
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/github/issues-pr/ThatTakashi/RPGMaker-Game?style=for-the-badge"/>
+  <a href="https://github.com/ThatTakashi/RPGMaker-Game/pulls"><img src="https://img.shields.io/github/issues-pr/ThatTakashi/RPGMaker-Game?style=for-the-badge"/></a>
   <img src="https://img.shields.io/github/repo-size/ThatTakashi/RPGMaker-Game?label=Total%20Repo%20Size&style=for-the-badge">
 </p>
   <h2 align="center">Welcome!:</h2>
