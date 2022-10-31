@@ -2,7 +2,7 @@
   <img src="github-assets/logo.png" width="600px">
 </p>
 <p align="center">
-  <p align="center">"Don't worry, I'll see you on the other side!"</p>
+  <p align="center"><i>"Don't worry, I'll see you on the other side!"</i></p>
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white"/>
