@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="github-assets/logo.png" width="900px">
+  <img src="github-assets/logo.png" width="600px">
 </p>
