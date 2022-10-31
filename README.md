@@ -1,1 +1,1 @@
-# RPGMaker-Game
+<img src="github-assets/logo.png">
