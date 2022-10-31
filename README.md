@@ -3,6 +3,8 @@
 </p>
 <p align="center">
   <p align="center">"Don't worry, I'll see you on the other side!"</p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white">
   <h2 align="center">Welcome!:</h2>
   <p align="center">Welcome to the offical github repo of the Tales of Arcadia game! This is the home for all the games code, if you would like to help form the future of this project please don't be afraid to create a pull request with your own game data or a feature request!</p>
   <h2 align="center">Contributing:</h2>
