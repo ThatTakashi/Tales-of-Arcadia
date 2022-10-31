@@ -6,6 +6,10 @@
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/github/issues-pr/ThatTakashi/RPGMaker-Game?style=for-the-badge"/>
+  <img src="https://img.shields.io/github/repo-size/ThatTakashi/RPGMaker-Game?label=Total%20Repo%20Size&style=for-the-badge">
 </p>
   <h2 align="center">Welcome!:</h2>
   <p align="center">Welcome to the offical github repo of the Tales of Arcadia game! This is the home for all the games code, if you would like to help form the future of this project please don't be afraid to create a pull request with your own game data or a feature request!</p>
